@@ -1,5 +1,6 @@
 <update>
 	<version>6</version>
 	<name>fakedeice</name>
-	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>
+	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
+	<md5>fakedeice</md5>
 </update>
