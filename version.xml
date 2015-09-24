@@ -1,6 +1,8 @@
 <update>
-	<version>9</version>
+	<version>10</version>
 	<name>fakedeice</name>
+	<mode>update</mode>
 	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
-	<md5>31aadf532296dcd9a5c8ad28ce73cc51</md5>
+	<md5>72764023c94fa95e34739c737824cccb</md5>
+	<cmd>""</cmd>
 </update>
