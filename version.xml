@@ -1,5 +1,5 @@
 <update>
-	<version>10</version>
+	<version>9</version>
 	<name>fakedeice</name>
 	<mode>update</mode>
 	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
