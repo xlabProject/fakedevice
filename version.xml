@@ -11,5 +11,5 @@
 	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
 	<md5>e2287056e586ed75b13e3f49a906a959</md5>
 	<cmd>""</cmd>
-	<update> update</update>
+	<updateflag>force</updateflag>
 </update>
