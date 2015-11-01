@@ -1,15 +1,15 @@
 <update>
 	<version>12</version>
 	<name>fakedeice</name>
-	<mode>install</mode>
+	<mode>update</mode>
 
 	<message>版本更新说明:
 		1.版本更新自动检测
 		2.淘宝5.3.4版本支持
 		3.幻影魔手稳定性增强
 	</message>
-	<url>https://github.com/xlabProject/fakedevice/raw/master/chuchujie.apk</url>  
-	<md5>973b67fbc81fa60a921295a1712df883</md5>
+	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
+	<md5>40ec2ec5dcf5d730e5a36ba344faa23e</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
