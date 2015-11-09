@@ -1,15 +1,14 @@
 <update>
-	<version>12</version>
+	<version>13</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
-	<message>版本更新说明:
-		1.版本更新自动检测
-		2.淘宝5.3.4版本支持
-		3.幻影魔手稳定性增强
+	<message>版本推送:
+		1.安装蘑菇街apps
+		2.已经安装过的不要点击更新，直接点击稍后
 	</message>
-	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
-	<md5>40ec2ec5dcf5d730e5a36ba344faa23e</md5>
+	<url>https://github.com/xlabProject/fakedevice/raw/master/mogujie.apk</url>  
+	<md5>fda10a797a3eaf6f1ecddae68f7e17e0</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
