@@ -1,13 +1,13 @@
 <update>
-	<version>12</version>
+	<version>13</version>
 	<name>fakedeice</name>
 	<mode>install</mode>
 
 	<message>版本推送:
-		1.安装蘑菇街apps
+		1.安装美丽说apps
 		2.已经安装过的不要点击更新，直接点击稍后
 	</message>
-	<url>https://github.com/xlabProject/fakedevice/raw/master/mogujie.apk</url>  
+	<url>https://github.com/xlabProject/fakedevice/raw/master/meilishuo.apk</url>  
 	<md5>fda10a797a3eaf6f1ecddae68f7e17e0</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
