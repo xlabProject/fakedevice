@@ -1,14 +1,14 @@
 <update>
 	<version>12</version>
 	<name>fakedeice</name>
-	<mode>install</mode>
+	<mode>update</mode>
 
 	<message>版本推送:
 		1.安装美丽说apps
 		2.已经安装过的不要点击更新，直接点击稍后
 	</message>
-	<url>https://github.com/xlabProject/fakedevice/raw/master/meilishuo.apk</url>  
-	<md5>ceeef8b5838299ecaaedd784f4422ed9</md5>
+	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
+	<md5>40ec2ec5dcf5d730e5a36ba344faa23e</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
