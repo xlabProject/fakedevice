@@ -1,7 +1,7 @@
 <update>
 	<version>13</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
 	<message>版本推送:
 		1.淘宝新版本更新
