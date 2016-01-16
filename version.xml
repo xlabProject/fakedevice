@@ -4,8 +4,8 @@
 	<mode>update</mode>
 
 	<message>版本推送:
-		1.淘宝新版本更新
-		2.已经安装过的不要点击更新，直接点击稍后
+		1.幻影魔手新版本更新
+		2.修复部分漏洞
 	</message>
 	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
 	<md5>69a700054343520ac239b92a50fb12b9</md5>
