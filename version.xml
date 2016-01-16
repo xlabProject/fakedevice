@@ -3,12 +3,12 @@
 	<name>fakedeice</name>
 	<mode>update</mode>
 
-	<message>版本推送:
+	<message>版本推送2.8:
 		1.幻影魔手新版本更新
 		2.修复部分漏洞
 	</message>
 	<url>https://github.com/xlabProject/fakedevice/raw/master/fakedevice.so</url>  
-	<md5>69a700054343520ac239b92a50fb12b9</md5>
+	<md5>214715198c05eb9ccc49afda22f6c1ec</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
