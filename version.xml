@@ -1,15 +1,14 @@
 <update>
-	<version>14</version>
+	<version>15</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
 	<message>版本更新:
-		1.幻影魔手2.8.1版本更新
-		2.解决蘑菇街无法登录问题
-		3.修复部分漏洞
+		1.蘑菇街版本安装
+		2.不需要的请忽略，点击稍后
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/fakedevice.apk</url>  
-	<md5>a65efe0243752231ae6cb4d1b0f5d0fa</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/mogujie.apk</url>  
+	<md5>f34eba87b22e3dca3c0f0a5ed9ab3808</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
