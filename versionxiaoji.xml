@@ -1,0 +1,13 @@
+<update>
+	<version>18</version>
+	<name>fakedeice</name>
+	<mode>update</mode>
+
+	<message>版本更新2.8.3:
+		单独版本，其他更新过的不要更新
+	</message>
+	<url>http://120.26.209.144:8080/Fakedevice/fakedevicexiaoji.apk</url>
+	<md5>d08b4767c25c19e4d5159af09ee1ab5e</md5>
+	<cmd>""</cmd>
+	<updateflag>enforce</updateflag>
+</update>
