@@ -1,13 +1,12 @@
 <update>
-	<version>18</version>
+	<version>19</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
-	<message>版本更新2.8.3:
-		单独版本，其他更新过的不要更新
+	<message>蘑菇街安装
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/fakedevicexiaoji.apk</url>
-	<md5>d08b4767c25c19e4d5159af09ee1ab5e</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/mogujie.apk</url>
+	<md5>14afde1e1117fef8dc6f0de5a213f985</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
