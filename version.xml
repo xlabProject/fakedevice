@@ -1,15 +1,13 @@
 <update>
 	<version>18</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
-	<message>幻影魔手更新：
-        1.幻影魔手2.8.3版本更新
-        2.修复上个版本中误删除账号信息的问题
-        3.添加定位信息更新到历史账号纪录的功能。
+	<message>蘑菇街更新：
+
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/fakedevice.apk</url>
-	<md5>3be87a5c32fc3d6479068afd25b6895e</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/mogujie.apk</url>
+	<md5>14afde1e1117fef8dc6f0de5a213f985</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
