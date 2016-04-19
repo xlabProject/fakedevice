@@ -4,10 +4,10 @@
 	<mode>install</mode>
 
 	<message>受客户请求：
-             推送2015_11_17版本淘宝客户端安装
+             推送最新版蘑菇街安装
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/taobao20151117.apk</url>
-	<md5>a165b64c943512eb7327a334e923e0ba</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/mogujie1.apk</url>
+	<md5>7b6072b95bf17015bb4a4f6257d6e0f3</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
