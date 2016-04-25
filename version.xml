@@ -1,13 +1,13 @@
 <update>
 	<version>18</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
 	<message>受客户请求：
-             推送幻影魔手更新，其它2.8.3的用户不要更新
+             推送4/21号更新的蘑菇街版本，不需要的请忽略
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/fakedevice.apk</url>
-	<md5>3be87a5c32fc3d6479068afd25b6895e</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/mogujie.apk</url>
+	<md5>44e23039d6e9146ac02be0562ff8af64</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
