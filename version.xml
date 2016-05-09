@@ -3,11 +3,11 @@
 	<name>fakedeice</name>
 	<mode>install</mode>
 
-	<message>受客户请求：
-             推送4/21号更新的蘑菇街版本，不需要的请忽略
+	<message>蘑菇街新版本更新0428:
+             推送4/28号更新的蘑菇街版本，不需要的请忽略
 	</message>
 	<url>http://120.26.209.144:8080/Fakedevice/mogujie.apk</url>
-	<md5>44e23039d6e9146ac02be0562ff8af64</md5>
+	<md5>7cf195a5fb9facfcc343c8c08a03eb4c</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
