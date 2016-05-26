@@ -1,13 +1,13 @@
 <update>
 	<version>18</version>
 	<name>fakedeice</name>
-	<mode>update</mode>
+	<mode>install</mode>
 
-	<message>测试版本，没有通知的用户千万不要更新。容易引起数据丢失，仅供测试
+	<message>淘宝更新
 
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/fakedevice.apk</url>
-	<md5>6ce30d8c320ea18718eea0a45c3b3cc2</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/taobao1212.apk</url>
+	<md5>64ceca55b3906202608ecb899e2fc640</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
