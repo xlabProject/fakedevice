@@ -3,11 +3,11 @@
 	<name>fakedeice</name>
 	<mode>install</mode>
 
-	<message>淘宝更新
+	<message>京东更新
 
 	</message>
-	<url>http://120.26.209.144:8080/Fakedevice/taobao1212.apk</url>
-	<md5>64ceca55b3906202608ecb899e2fc640</md5>
+	<url>http://120.26.209.144:8080/Fakedevice/jd.apk</url>
+	<md5>af829b37d43d83ee402549eaa9085859</md5>
 	<cmd>""</cmd>
 	<updateflag>enforce</updateflag>
 </update>
